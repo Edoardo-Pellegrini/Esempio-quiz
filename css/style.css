@@ -1,0 +1,19 @@
+h1 {
+    color: red;
+    text-align: center;
+}
+#test {
+    border: 2px solid red;
+    margin: 0 auto;
+    width: 60%;
+    color: black;
+    display: flex;
+    padding: 10px;
+
+}
+.domande {
+    font-weight: bold;
+}
+.risposte {
+    margin-left: 20px;
+}
